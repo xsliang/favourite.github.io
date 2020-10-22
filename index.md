@@ -2,6 +2,8 @@
 
 [solidot](http://solidot.org/)
 
+[v2ex](https://www.v2ex.com/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xsliang/favourite.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
